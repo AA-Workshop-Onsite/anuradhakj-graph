@@ -12,9 +12,9 @@ homepage:
   enabled: false
 
 limits:
-  max_depth: 10
-  max_height: 20
-  max_aliasses: 6
+  max_depth: 30
+  max_height: 30
+  max_aliasses: 10
 
 cors:
   origins:
